@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.css"
 import { BrowserRouter, Route, Routes, Navigate } from "react-router";
 import Products from "./pages/Products";
 import SegmentEditor from "./pages/SegmentEditor";
